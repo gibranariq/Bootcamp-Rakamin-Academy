@@ -1,0 +1,271 @@
+order_month,user_id,full_name,phone,city,province,email,total_order,total_gmv,total_visit
+2018-01-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,ahmad@gmail.com,127,3492500,235
+2018-01-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,173,4757500,304
+2018-01-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,20,550000,62
+2018-01-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,18,495000,100
+2018-01-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,159,4372500,524
+2018-01-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budigmail.co.id,138,3795000,345
+2018-02-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,78,2145000,194
+2018-02-01,10000018,Bila Syahputri,nan,Bandung,Jawa Barat,bila@yahoo.com,195,5362500,550
+2018-02-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,146,4015000,283
+2018-02-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,21,577500,64
+2018-02-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimasyahoo.co.id,153,4207500,609
+2018-02-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,88,2420000,294
+2018-03-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,186,5115000,731
+2018-03-01,10000024,Dina Ayu,628567812313.0,Palembang,Sumatra Selatan,dina@gmail.co.id,35,962500,63
+2018-03-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,81,2227500,254
+2018-03-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,105,2887500,211
+2018-03-01,10000027,Eka Rahayu,nan,Palembang,Sumatra Selatan,eka@gmail.com,138,3795000,307
+2018-03-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,157,4317500,471
+2018-04-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,101,2777500,337
+2018-04-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,2,55000,6
+2018-04-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,108,2970000,227
+2018-04-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,200,5500000,652
+2018-04-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,130,3575000,252
+2018-04-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,53,1457500,107
+2018-05-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,104,2860000,207
+2018-05-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,77,2117500,313
+2018-05-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,56,1540000,87
+2018-05-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,159,4372500,265
+2018-05-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,106,2915000,354
+2018-05-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,190,5225000,351
+2018-06-01,10000041,Iman Adi,628223412517.0,Surabaya,Jawa Timur,iman@yahoo.co.id,20,550000,107
+2018-06-01,10000042,Jonatan,628223412518.0,Balikpapan,Kalimantan Timur,jonatan@yahoo.com,131,3602500,279
+2018-06-01,10000043,Muhammad Amirul,628223412519.0,Surabaya,Jawa Timur,muhammadamirul@gmail.com,66,1815000,112
+2018-06-01,10000044,Michella Putri,628223412520.0,Medan,Sumatra Utara,michella@gmail.co.id,177,4867500,325
+2018-06-01,10000045,Nina Ayu,628223412521.0,Denpasar,Bali,nina@yahoo.co.id,90,2475000,238
+2018-06-01,10000046,Ningsih ,628962212421.0,Surabaya,Jawa Timur,ningsih@yahoo.com,76,2090000,253
+2018-07-01,10000047,Nita,628962212422.0,Denpasar,Bali,nita@gmail.com,148,4070000,390
+2018-07-01,10000048,Yeti Putri,628962212423.0,Surabaya,Jawa Timur,yeti@gmail.co.id,69,1897500,134
+2018-07-01,10000049,Winda Ayu,628962212424.0,Balikpapan,Kalimantan Timur,winda@yahoo.co.id,87,2392500,226
+2018-07-01,10000050,Ziad Akbar,628962212425.0,Jakarta Timur,DKI Jakarta,ziad@yahoo.com,149,4097500,275
+2018-07-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,Ahmad@gmail.com,191,5252500,229
+2018-07-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,32,880000,130
+2018-08-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,45,1237500,112
+2018-08-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,116,3190000,364
+2018-08-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,68,1870000,119
+2018-08-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budi@gmail.co.id,36,990000,90
+2018-08-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,9,247500,97
+2018-08-01,10000018,Bila Syahputri,628785222218.0,Bandung,Jawa Barat,BILA@yahoo.com,117,3217500,288
+2018-09-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,138,3795000,277
+2018-09-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,52,1430000,72
+2018-09-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimas@yahoo.co.id,53,1457500,77
+2018-09-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,151,4152500,635
+2018-09-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,159,4372500,324
+2018-09-01,10000024,Dina Ayu,nan,Palembang,Sumatra Selatan,dina@gmail.co.id,141,3877500,277
+2018-10-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,69,1897500,119
+2018-10-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,120,3300000,324
+2018-10-01,10000027,Eka Rahayu,628567812316.0,Palembang,Sumatra Selatan,eka@gmail.com,180,4950000,215
+2018-10-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,5,137500,14
+2018-10-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,144,3960000,391
+2018-10-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,146,4015000,336
+2018-11-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,191,5252500,612
+2018-11-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,88,2420000,243
+2018-11-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,66,1815000,158
+2018-11-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,152,4180000,528
+2018-11-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,135,3712500,369
+2018-11-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,113,3107500,329
+2018-12-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,6,165000,42
+2018-12-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,181,4977500,650
+2018-12-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,163,4482500,649
+2018-12-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,176,4840000,626
+2018-12-01,10000041,Iman Adi,628223412517.0,Surabaya,Jawa Timur,iman@yahoo.co.id,58,1595000,82
+2018-12-01,10000042,Jonatan,628223412518.0,Balikpapan,Kalimantan Timur,jonatan@yahoo.com,101,2777500,202
+2019-01-01,10000043,Muhammad Amirul,628223412519.0,Surabaya,Jawa Timur,muhammadamirul@gmail.com,154,4235000,278
+2019-01-01,10000044,Michella Putri,628223412520.0,Medan,Sumatra Utara,michella@gmail.co.id,115,3162500,230
+2019-01-01,10000045,Nina Ayu,628223412521.0,Denpasar,Bali,nina@yahoo.co.id,27,742500,31
+2019-01-01,10000046,Ningsih ,628962212421.0,Surabaya,Jawa Timur,ningsih@yahoo.com,32,880000,106
+2019-01-01,10000047,Nita,628962212422.0,Denpasar,Bali,nita@gmail.com,13,357500,39
+2019-01-01,10000048,Yeti Putri,628962212423.0,Surabaya,Jawa Timur,yeti@gmail.co.id,75,2062500,85
+2019-02-01,10000049,Winda Ayu,628962212424.0,Balikpapan,Kalimantan Timur,winda@yahoo.co.id,2,55000,13
+2019-02-01,10000050,Ziad Akbar,628962212425.0,Jakarta Timur,DKI Jakarta,ziad@yahoo.com,168,4620000,303
+2019-02-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,ahmad@gmail.com,102,2805000,334
+2019-02-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,95,2612500,286
+2019-02-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,3,82500,17
+2019-02-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,95,2612500,236
+2019-03-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,100,2750000,280
+2019-03-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budi@gmail.co.id,184,5060000,296
+2019-03-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,186,5115000,607
+2019-03-01,10000018,Bila Syahputri,628785222218.0,Bandung,Jawa Barat,bila@yahoo.com,17,467500,89
+2019-03-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,74,2035000,165
+2019-03-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,164,4510000,558
+2019-04-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimas@yahoo.co.id,138,3795000,279
+2019-04-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,100,2750000,204
+2019-04-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,174,4785000,462
+2019-04-01,10000024,Dina Ayu,628567812313.0,Palembang,Sumatra Selatan,dina@gmail.co.id,173,4757500,290
+2019-04-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,17,467500,77
+2019-04-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,12,330000,15
+2019-05-01,10000027,Eka Rahayu,628567812316.0,Palembang,Sumatra Selatan,eka@gmail.com,95,2612500,334
+2019-05-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,120,3300000,359
+2019-05-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,18,495000,109
+2019-05-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,83,2282500,295
+2019-05-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,156,4290000,656
+2019-05-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,140,3850000,265
+2019-06-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,152,4180000,691
+2019-06-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,166,4565000,468
+2019-06-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,31,852500,50
+2019-06-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,44,1210000,53
+2019-06-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,72,1980000,162
+2019-06-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,170,4675000,566
+2019-07-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,125,3437500,258
+2019-07-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,111,3052500,317
+2019-07-01,10000041,Iman Adi,628223412517.0,Surabaya,Jawa Timur,iman@yahoo.co.id,58,1595000,107
+2019-07-01,10000042,Jonatan,628223412518.0,Balikpapan,Kalimantan Timur,jonatan@yahoo.com,52,1430000,136
+2019-07-01,10000043,Muhammad Amirul,628223412519.0,Surabaya,Jawa Timur,muhammadamirul@gmail.com,66,1815000,156
+2019-07-01,10000044,Michella Putri,628223412520.0,Medan,Sumatra Utara,michella@gmail.co.id,69,1897500,169
+2019-08-01,10000045,Nina Ayu,628223412521.0,Denpasar,Bali,nina@yahoo.co.id,133,3657500,289
+2019-08-01,10000046,Ningsih ,628962212421.0,Surabaya,Jawa Timur,ningsih@yahoo.com,138,3795000,283
+2019-08-01,10000047,Nita,628962212422.0,Denpasar,Bali,nita@gmail.com,165,4537500,482
+2019-08-01,10000048,Yeti Putri,628962212423.0,Surabaya,Jawa Timur,yeti@gmail.co.id,199,5472500,291
+2019-08-01,10000049,Winda Ayu,628962212424.0,Balikpapan,Kalimantan Timur,winda@yahoo.co.id,57,1567500,136
+2019-08-01,10000050,Ziad Akbar,nan,Jakarta Timur,DKI Jakarta,ziad@yahoo.com,177,4867500,529
+2019-09-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,ahmad@gmail.com,82,2255000,295
+2019-09-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,194,5335000,227
+2019-09-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,87,2392500,215
+2019-09-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,9,247500,66
+2019-09-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,138,3795000,290
+2019-09-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budi@gmail.co.id,42,1155000,65
+2019-10-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,60,1650000,128
+2019-10-01,10000018,Bila Syahputri,628785222218.0,Bandung,Jawa Barat,bila@yahoo.com,11,302500,40
+2019-10-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,176,4840000,552
+2019-10-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,50,1375000,82
+2019-10-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimas@yahoo.co.id,119,3272500,308
+2019-10-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,143,3932500,269
+2019-11-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,157,4317500,734
+2019-11-01,10000024,Dina Ayu,628567812313.0,Palembang,Sumatra Selatan,dina@gmail.co.id,149,4097500,262
+2019-11-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,159,4372500,533
+2019-11-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,37,1017500,44
+2019-11-01,10000027,Eka Rahayu,628567812316.0,Palembang,Sumatra Selatan,eka@gmail.com,172,4730000,242
+2019-11-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,9,247500,88
+2019-12-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,76,2090000,311
+2019-12-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,185,5087500,215
+2019-12-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,122,3355000,232
+2019-12-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,79,2172500,262
+2019-12-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,147,4042500,303
+2019-12-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,126,3465000,344
+2020-01-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,50,1375000,74
+2020-01-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,53,1457500,132
+2020-01-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,115,3162500,257
+2020-01-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,26,715000,102
+2020-01-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,175,4812500,429
+2020-01-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,162,4455000,446
+2020-02-01,10000041,Iman Adi,628223412517.0,Surabaya,Jawa Timur,iman@yahoo.co.id,62,1705000,93
+2020-02-01,10000042,Jonatan,628223412518.0,Balikpapan,Kalimantan Timur,jonatan@yahoo.com,110,3025000,327
+2020-02-01,10000043,Muhammad Amirul,628223412519.0,Surabaya,Jawa Timur,muhammadamirul@gmail.com,46,1265000,101
+2020-02-01,10000044,Michella Putri,628223412520.0,Medan,Sumatra Utara,michella@gmail.co.id,68,1870000,74
+2020-02-01,10000045,Nina Ayu,628223412521.0,Denpasar,Bali,nina@yahoo.co.id,83,2282500,186
+2020-02-01,10000046,Ningsih ,628962212421.0,Surabaya,Jawa Timur,ningsih@yahoo.com,38,1045000,119
+2020-03-01,10000047,Nita,628962212422.0,Denpasar,Bali,nita@gmail.com,162,4455000,564
+2020-03-01,10000048,Yeti Putri,nan,Surabaya,Jawa Timur,yeti@gmail.co.id,200,5500000,296
+2020-03-01,10000049,Winda Ayu,628962212424.0,Balikpapan,Kalimantan Timur,winda@yahoo.co.id,117,3217500,311
+2020-03-01,10000050,Ziad Akbar,628962212425.0,Jakarta Timur,DKI Jakarta,ziad@yahoo.com,141,3877500,346
+2020-03-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,ahmad@gmail.com,63,1732500,68
+2020-03-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,99,2722500,304
+2020-04-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,101,2777500,311
+2020-04-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,55,1512500,117
+2020-04-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,47,1292500,94
+2020-04-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budi@gmail.co.id,168,4620000,315
+2020-04-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,15,412500,75
+2020-04-01,10000018,Bila Syahputri,628785222218.0,Bandung,Jawa Barat,bila@yahoo.com,31,852500,65
+2020-05-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,32,880000,41
+2020-05-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,123,3382500,311
+2020-05-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimas@yahoo.co.id,66,1815000,117
+2020-05-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,36,990000,105
+2020-05-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,58,1595000,134
+2020-05-01,10000024,Dina Ayu,628567812313.0,Palembang,Sumatra Selatan,dina@gmail.co.id,20,550000,92
+2020-06-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,96,2640000,251
+2020-06-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,30,825000,60
+2020-06-01,10000027,Eka Rahayu,628567812316.0,Palembang,Sumatra Selatan,eka@gmail.com,161,4427500,315
+2020-06-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,181,4977500,631
+2020-06-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,79,2172500,313
+2020-06-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,196,5390000,745
+2020-07-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,22,605000,113
+2020-07-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,150,4125000,365
+2020-07-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,41,1127500,118
+2020-07-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,172,4730000,636
+2020-07-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,27,742500,34
+2020-07-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,121,3327500,277
+2020-08-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,3,82500,37
+2020-08-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,48,1320000,101
+2020-08-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,172,4730000,229
+2020-08-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,117,3217500,333
+2020-08-01,10000041,Iman Adi,628223412517.0,Surabaya,Jawa Timur,iman@yahoo.co.id,60,1650000,116
+2020-08-01,10000042,Jonatan,628223412518.0,Balikpapan,Kalimantan Timur,jonatan@yahoo.com,133,3657500,244
+2020-09-01,10000043,Muhammad Amirul,628223412519.0,Surabaya,Jawa Timur,muhammadamirul@gmail.com,123,3382500,351
+2020-09-01,10000044,Michella Putri,628223412520.0,Medan,Sumatra Utara,michella@gmail.co.id,94,2585000,321
+2020-09-01,10000045,Nina Ayu,628223412521.0,Denpasar,Bali,nina@yahoo.co.id,41,1127500,59
+2020-09-01,10000046,Ningsih ,628962212421.0,Surabaya,Jawa Timur,ningsih@yahoo.com,22,605000,45
+2020-09-01,10000047,Nita,628962212422.0,Denpasar,Bali,nita@gmail.com,163,4482500,653
+2020-09-01,10000048,Yeti Putri,628962212423.0,Surabaya,Jawa Timur,yeti@gmail.co.id,48,1320000,58
+2020-10-01,10000049,Winda Ayu,628962212424.0,Balikpapan,Kalimantan Timur,winda@yahoo.co.id,187,5142500,588
+2020-10-01,10000050,Ziad Akbar,628962212425.0,Jakarta Timur,DKI Jakarta,ziad@yahoo.com,3,82500,23
+2020-10-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,ahmad@gmail.com,154,4235000,502
+2020-10-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,163,4482500,465
+2020-10-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,59,1622500,123
+2020-10-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,20,550000,80
+2020-11-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,100,2750000,274
+2020-11-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budi@gmail.co.id,52,1430000,55
+2020-11-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,135,3712500,361
+2020-11-01,10000018,Bila Syahputri,628785222218.0,Bandung,Jawa Barat,bila@yahoo.com,53,1457500,55
+2020-11-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,150,4125000,382
+2020-11-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,55,1512500,125
+2020-12-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimas@yahoo.co.id,39,1072500,76
+2020-12-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,73,2007500,132
+2020-12-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,7,192500,83
+2020-12-01,10000024,Dina Ayu,628567812313.0,Palembang,Sumatra Selatan,dina@gmail.co.id,181,4977500,491
+2020-12-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,197,5417500,660
+2020-12-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,6,165000,106
+2021-01-01,10000027,Eka Rahayu,628567812316.0,Palembang,Sumatra Selatan,eka@gmail.com,17,467500,24
+2021-01-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,118,3245000,281
+2021-01-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,85,2337500,205
+2021-01-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,148,4070000,347
+2021-01-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,37,1017500,44
+2021-01-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,123,3382500,289
+2021-02-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,173,4757500,369
+2021-02-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,143,3932500,376
+2021-02-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,94,2585000,254
+2021-02-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,23,632500,81
+2021-02-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,57,1567500,87
+2021-02-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,178,4895000,295
+2021-03-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,168,4620000,374
+2021-03-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,92,2530000,196
+2021-03-01,10000041,Iman Adi,628223412517.0,Surabaya,Jawa Timur,iman@yahoo.co.id,105,2887500,248
+2021-03-01,10000042,Jonatan,628223412518.0,Balikpapan,Kalimantan Timur,jonatan@yahoo.com,98,2695000,235
+2021-03-01,10000043,Muhammad Amirul,628223412519.0,Surabaya,Jawa Timur,muhammadamirul@gmail.com,24,660000,75
+2021-03-01,10000044,Michella Putri,628223412520.0,Medan,Sumatra Utara,michella@gmail.co.id,163,4482500,467
+2021-04-01,10000045,Nina Ayu,628223412521.0,Denpasar,Bali,nina@yahoo.co.id,176,4840000,513
+2021-04-01,10000046,Ningsih ,628962212421.0,Surabaya,Jawa Timur,ningsih@yahoo.com,64,1760000,89
+2021-04-01,10000047,Nita,628962212422.0,Denpasar,Bali,nita@gmail.com,159,4372500,700
+2021-04-01,10000048,Yeti Putri,628962212423.0,Surabaya,Jawa Timur,yeti@gmail.co.id,8,220000,19
+2021-04-01,10000049,Winda Ayu,628962212424.0,Balikpapan,Kalimantan Timur,winda@yahoo.co.id,88,2420000,291
+2021-04-01,10000050,Ziad Akbar,628962212425.0,Jakarta Timur,DKI Jakarta,ziad@yahoo.com,156,4290000,633
+2021-05-01,10000011,Ahmad Budiman,628785222211.0,Jakarta Pusat,DKI Jakarta,ahmad@gmail.com,20,550000,88
+2021-05-01,10000012,Azzam Haqq,628785222212.0,Surabaya,Jawa Timur,azzam@gmail.co.id,197,5417500,649
+2021-05-01,10000013,Amrina Putri,628785222213.0,Jakarta Pusat,DKI Jakarta,amrina@yahoo.co.id,168,4620000,544
+2021-05-01,10000014,Aan Utama,628785222214.0,Medan,Sumatra Utara,aan@yahoo.com,22,605000,38
+2021-05-01,10000015,Adam Adi,628785222215.0,Jakarta Timur,DKI Jakarta,adam@gmail.com,28,770000,111
+2021-05-01,10000016,Budi Utomo,628785222216.0,Bandung,Jawa Barat,budi@gmail.co.id,101,2777500,215
+2021-06-01,10000017,Bayu Aji,628785222217.0,Semarang,Jawa Tengah,bayu@yahoo.co.id,53,1457500,142
+2021-06-01,10000018,Bila Syahputri,628785222218.0,Bandung,Jawa Barat,bila@yahoo.com,11,302500,83
+2021-06-01,10000019,Chika Ayu,628785222219.0,Semarang,Jawa Tengah,chika@gmail.com,115,3162500,312
+2021-06-01,10000020,Cantika Putri Rahayu,628785222220.0,Bandung,Jawa Barat,cantika@gmail.co.id,177,4867500,354
+2021-06-01,10000021,Dimas Aji,628785222221.0,Semarang,Jawa Tengah,dimas@yahoo.co.id,172,4730000,456
+2021-06-01,10000022,Dika Mulya,628567812311.0,Palembang,Sumatra Selatan,dika@yahoo.com,116,3190000,297
+2021-07-01,10000023,Dodo Putro Aji,628567812312.0,Surabaya,Jawa Timur,dodo@gmail.com,123,3382500,226
+2021-07-01,10000024,Dina Ayu,628567812313.0,Palembang,Sumatra Selatan,dina@gmail.co.id,164,4510000,678
+2021-07-01,10000025,Edgar Budiman,628567812314.0,Palembang,Sumatra Selatan,edgar@yahoo.co.id,78,2145000,299
+2021-07-01,10000026,Endar Adi,628567812315.0,Bandung,Jawa Barat,endar@yahoo.com,100,2750000,293
+2021-07-01,10000027,Eka Rahayu,628567812316.0,Palembang,Sumatra Selatan,eka@gmail.com,8,220000,94
+2021-07-01,10000028,Ela,628567812317.0,Makassar,Sulawesi Selatan,ela@gmail.co.id,21,577500,34
+2021-08-01,10000029,Fawwaz Aji,628567812318.0,Solo,Jawa Tengah,fawwaz@yahoo.co.id,106,2915000,253
+2021-08-01,10000030,Faruq Adi,628567812319.0,Makassar,Sulawesi Selatan,faruq@yahoo.com,68,1870000,78
+2021-08-01,10000031,Fika Rahayu,628567812320.0,Makassar,Sulawesi Selatan,fika@gmail.com,158,4345000,456
+2021-08-01,10000032,Galih Adimas,628567812321.0,Solo,Jawa Tengah,galih@gmail.co.id,76,2090000,320
+2021-08-01,10000033,Gagah Putra Adi,628567812322.0,Makassar,Sulawesi Selatan,gagah@yahoo.co.id,34,935000,79
+2021-08-01,10000034,Gina Syahputri,628567812323.0,Denpasar,Bali,gina@yahoo.com,159,4372500,541
+2021-09-01,10000035,Gilang Budiman,628223412511.0,Balikpapan,Kalimantan Timur,gilang123@gmail.com,160,4400000,633
+2021-09-01,10000036,Gilang Rahaja,628223412512.0,Jakarta Pusat,DKI Jakarta,gilang@gmail.co.id,68,1870000,101
+2021-09-01,10000037,Hari Darmawan,628223412513.0,Bandung,Jawa Barat,hari@yahoo.co.id,5,137500,101
+2021-09-01,10000038,Heru ,628223412514.0,Bandung,Jawa Barat,heru@yahoo.com,61,1677500,125
+2021-09-01,10000039,Hesti Putri,628223412515.0,Medan,Sumatra Utara,hesti@gmail.com,161,4427500,471
+2021-09-01,10000040,Hirman,628223412516.0,Medan,Sumatra Utara,hirman@gmail.co.id,102,2805000,309
